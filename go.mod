@@ -14,7 +14,7 @@ require (
 	github.com/steakknife/bloomfilter v0.0.0-20180922174646-6819c0d2a570 // indirect
 	github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3 // indirect
 	github.com/syndtr/goleveldb v0.0.0-20180621010148-0d5a0ceb10cf // indirect
-	github.com/tyler-smith/go-bip39 v0.0.0-20180618194314-52158e4697b8
+	github.com/tyler-smith/go-bip39 v1.1.0
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83 // indirect
 	golang.org/x/net v0.0.0-20190921015927-1a5e07d1ff72 // indirect
 )
